@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.164e31fc.css",
-    "main.js": "/static/js/main.cd637cb5.js",
-    "static/media/Lato-Bold.eot": "/static/media/Lato-Bold.5b4e13e42c8f7b7e99f2.eot",
-    "static/media/Lato-Bold.ttf": "/static/media/Lato-Bold.9cfae71062337c38b44f.ttf",
-    "static/media/Lato-Regular.eot": "/static/media/Lato-Regular.69d31be6f792ece22467.eot",
-    "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.cbcf73593dd54516d4b3.ttf",
-    "static/media/Lato-Bold.woff": "/static/media/Lato-Bold.4b35a8ac65a69832ec09.woff",
-    "static/media/Lato-Regular.woff": "/static/media/Lato-Regular.39517281aedab52a4e3d.woff",
-    "static/media/Lato-Bold.woff2": "/static/media/Lato-Bold.39775d377afbc753c1d1.woff2",
-    "static/media/Lato-Regular.woff2": "/static/media/Lato-Regular.bb882f4771ef3a86e3a1.woff2",
-    "static/media/Roboto-Regular.woff": "/static/media/Roboto-Regular.f7bafc7e0b4cc5d4a0d9.woff",
-    "static/media/Roboto-Bold.woff": "/static/media/Roboto-Bold.5e938a82fef90580d3d8.woff",
-    "static/media/ShockBrat.woff": "/static/media/ShockBrat.81122225a04262b8e73b.woff",
-    "index.html": "/index.html",
-    "main.164e31fc.css.map": "/static/css/main.164e31fc.css.map",
-    "main.cd637cb5.js.map": "/static/js/main.cd637cb5.js.map"
+    "main.css": "/editor-training-app/static/css/main.87c0245a.css",
+    "main.js": "/editor-training-app/static/js/main.cd637cb5.js",
+    "static/media/Lato-Bold.eot": "/editor-training-app/static/media/Lato-Bold.5b4e13e42c8f7b7e99f2.eot",
+    "static/media/Lato-Bold.ttf": "/editor-training-app/static/media/Lato-Bold.9cfae71062337c38b44f.ttf",
+    "static/media/Lato-Regular.eot": "/editor-training-app/static/media/Lato-Regular.69d31be6f792ece22467.eot",
+    "static/media/Lato-Regular.ttf": "/editor-training-app/static/media/Lato-Regular.cbcf73593dd54516d4b3.ttf",
+    "static/media/Lato-Bold.woff": "/editor-training-app/static/media/Lato-Bold.4b35a8ac65a69832ec09.woff",
+    "static/media/Lato-Regular.woff": "/editor-training-app/static/media/Lato-Regular.39517281aedab52a4e3d.woff",
+    "static/media/Lato-Bold.woff2": "/editor-training-app/static/media/Lato-Bold.39775d377afbc753c1d1.woff2",
+    "static/media/Lato-Regular.woff2": "/editor-training-app/static/media/Lato-Regular.bb882f4771ef3a86e3a1.woff2",
+    "static/media/Roboto-Regular.woff": "/editor-training-app/static/media/Roboto-Regular.f7bafc7e0b4cc5d4a0d9.woff",
+    "static/media/Roboto-Bold.woff": "/editor-training-app/static/media/Roboto-Bold.5e938a82fef90580d3d8.woff",
+    "static/media/ShockBrat.woff": "/editor-training-app/static/media/ShockBrat.81122225a04262b8e73b.woff",
+    "index.html": "/editor-training-app/index.html",
+    "main.87c0245a.css.map": "/editor-training-app/static/css/main.87c0245a.css.map",
+    "main.cd637cb5.js.map": "/editor-training-app/static/js/main.cd637cb5.js.map"
   },
   "entrypoints": [
-    "static/css/main.164e31fc.css",
+    "static/css/main.87c0245a.css",
     "static/js/main.cd637cb5.js"
   ]
 }
